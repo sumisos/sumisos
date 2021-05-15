@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/sumisos)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=gruvbox)](https://github.com/sumisos)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=graywhite)](https://github.com/sumisos)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumisos&show_icons=true&theme=dracula)](https://github.com/sumisos)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumisos&show_icons=true&theme=vue)](https://github.com/sumisos)
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F5QF2BK1NYW2V98KRH4MZ1MM/green.svg)](https://badges.toozhao.com/stats/01F5QF2BK1NYW2V98KRH4MZ1MM "Get your own page views count badge on badges.toozhao.com")
