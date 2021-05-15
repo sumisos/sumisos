@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sumi Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&hide_border=true&theme=gruvbox)](https://github.com/sumisos)
+[![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/sumisos)
 
-[![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&hide_border=false&theme=gruvbox)](https://github.com/sumisos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&hide=html,css)](https://github.com/sumisos)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=gruvbox)](https://github.com/sumisos)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumisos&show_icons=true&theme=dracula)](https://github.com/sumisos)
 
