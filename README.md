@@ -15,6 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fapi%2Fver)](https://api.osrp.run)
+![](https://img.shields.io/badge/Status-down-critical?logo=nginx)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fapi%2Flang&logo=go&logoColor=fff)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fapi%2Fframe)
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fapi2%2Fver)](https://api2.osrp.run)
+![](https://img.shields.io/badge/Status-down-critical?logo=nginx)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fapi2%2Flang&logo=php&logoColor=fff)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fapi2%2Fframe&logo=laravel&logoColor=fff)
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Fv1%2Fver)](https://api3.osrp.run)
+![](https://img.shields.io/badge/Status-down-critical?logo=nginx)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Fv1%2Flang&logo=node.js&logoColor=fff)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Fv1%2Fframe)
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fdst%2Fver)](https://ews.ink/game/dst-server-lordran)
+![](https://img.shields.io/badge/Status-down-critical?logo=icloud&logoColor=fff)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fdst%2Flasest&logo=steam)](https://store.steampowered.com/app/322330/Dont_Starve_Together)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fdst%2Furl)
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fl4d2%2Fver)](https://ews.ink/game/l4d2-server-raccoon)
+![](https://img.shields.io/badge/Status-down-critical?logo=icloud&logoColor=fff)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fl4d2%2Flasest&logo=steam)](https://store.steampowered.com/app/550/Left_4_Dead_2)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fl4d2%2Furl)
+
 [![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=30,D9FCFF,FFFCD6,D7DFE1,FFE6E6,BDD6E5)](https://github.com/sumisos)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=flag-india)](https://github.com/sumisos)
