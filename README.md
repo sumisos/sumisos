@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fl4d2%2Flasest&logo=steam)](https://store.steampowered.com/app/550/Left_4_Dead_2)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Ftemp%2Fl4d2%2Furl)
 
-[![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=30,D9FCFF,FFFCD6,D7DFE1,FFE6E6,BDD6E5)](https://github.com/sumisos)
+[![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=30,D9FCFF,FFFCD6,D7DFE1,FFE6E6,BDD6E5)](https://ews.ink)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=flag-india)](https://github.com/sumisos)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=flag-india)](https://github.com/sumisos?tab=repositories)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumisos&show_icons=true&theme=great-gatsby)](https://github.com/sumisos)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumisos&show_icons=true&theme=great-gatsby)](https://wakatime.com/@sumisos)
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F5QF2BK1NYW2V98KRH4MZ1MM/green.svg)](https://badges.toozhao.com/stats/01F5QF2BK1NYW2V98KRH4MZ1MM "Get your own page views count badge on badges.toozhao.com")
