@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&theme=blue-green)](https://github.com/sumisos)
+[![Sumi's Github Stats](https://github-readme-stats.vercel.app/api?username=sumisos&hide=prs,contribs&count_private=true&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=DEG,D9FCFF,FFFCD6,D7DFE1,FFE6E6,BDD6E5)](https://github.com/sumisos)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumisos&show_icons=true&layout=compact&hide=html,css&theme=flag-india)](https://github.com/sumisos)
 
