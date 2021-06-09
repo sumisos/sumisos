@@ -16,26 +16,26 @@ Here are some ideas to get you started:
 -->
 
 <!-- API 1 Safound -->
-[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Safound&url=https://api.osrp.run&logo=icloud&logoColor=fff "API 1 Status")](https://api.osrp.run)
-[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime&logo=nginx&logoColor=white "API 1 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O)
+[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Safound&url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Fversion&logo=icloud&logoColor=fff "API 1 Status")](https://api.osrp.run/)
+[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime "API 1 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O/)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Flang&logo=go&logoColor=fff)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Fframe)
 
 <!-- API 2 Rakuyo -->
-[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Rakuyo&url=https://api2.osrp.run&logo=icloud&logoColor=fff "API 2 Status")](https://api2.osrp.run)
-[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime&logo=nginx&logoColor=white "API 2 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O)
+[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Rakuyo&url=https%3A%2F%2Fapi2.osrp.run%2Fv1%2Fversion&logo=icloud&logoColor=fff "API 2 Status")](https://api2.osrp.run/)
+[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime "API 2 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O/)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi2.osrp.run%2Fv1%2Flang&logo=php&logoColor=fff)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi2.osrp.run%2Fv1%2Fframe&logo=laravel&logoColor=fff)
 
 <!-- API 3 Golenil -->
-[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Golenil&url=https://api3.osrp.run&logo=icloud&logoColor=fff "API 3 Status")](https://api3.osrp.run)
-[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime&logo=nginx&logoColor=white "API 3 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O)
+[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Golenil&url=https%3A%2F%2Fapi3.osrp.run%2Fv1%2Fversion&logo=icloud&logoColor=fff "API 3 Status")](https://api3.osrp.run/)
+[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime "API 3 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O/)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Fv1%2Flang)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi3.osrp.run%2Fv1%2Fframe)
 
 <!-- API 4 Beace -->
-[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Beace&url=https://api4.osrp.run&logo=icloud&logoColor=fff "API 4 Status")](https://api3.osrp.run)
-[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime&logo=nginx&logoColor=white "API 4 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O)
+[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Beace&url=https%3A%2F%2Fapi4.osrp.run%2Fv1%2Fversion&logo=icloud&logoColor=fff "API 4 Status")](https://api4.osrp.run/)
+[![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime "API 4 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O/)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi4.osrp.run%2Fv1%2Flang&logo=python&logoColor=fff)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi4.osrp.run%2Fv1%2Fframe&logo=fastapi&logoColor=fff)
 
