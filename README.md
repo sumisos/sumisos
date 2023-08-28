@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-dev
-
-
-
-<!-- API 1 Safound -->[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Safound&url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Fversion&logo=icloud&logoColor=fff "API 1 Status")](https://api.osrp.run/)
+<!-- API 1 Safound -->
+[![](https://img.shields.io/website?up_color=brightgreen&up_message=Online&down_color=lightgrey&down_message=Offline&label=Safound&url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Fversion&logo=icloud&logoColor=fff "API 1 Status")](https://api.osrp.run/)
 [![](https://img.shields.io/uptimerobot/ratio/m788160174-4ee51ed2bf7fedf4d806a0ae?label=Uptime "API 1 Uptime Status")](https://stats.uptimerobot.com/kDgGlcnE2O/)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Flang&logo=go&logoColor=fff)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.osrp.run%2Fv1%2Fframe)
